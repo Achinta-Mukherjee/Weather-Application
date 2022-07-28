@@ -1,0 +1,45 @@
+.city-div{
+    text-align: center;
+}
+
+.perfect-day-logo{
+    height: 140px;
+    width: 140px;
+    margin: 40px auto;
+    border-radius: 20px;
+}
+
+.find-weather{
+    font-size: 17px;
+    font-weight: bold;
+    font-style: italic;
+    margin: 10px;
+}
+
+.searchbar{ 
+    display: flex;
+    flex-direction: row;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+    margin: 20px 10px;
+    font-family: cursive;
+}
+
+.input-city{
+    border: none;
+    outline: none;
+    font-size: 14px;
+    padding: 5px;
+}
+
+.search-city{
+    border: none;
+    outline: none;
+    font-size: 14px;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    cursor: pointer;
+}

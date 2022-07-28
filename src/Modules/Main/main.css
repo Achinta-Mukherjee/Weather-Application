@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    box-shadow: 0 3px 6px 0 #555;
+    padding: 20px 10px;
+    border-radius: 5px;
+    width: 400px;background: linear-gradient(0.75turn, #3f87a6, #ebf8e1, #f69d3c);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.footer-div{
+    text-align: left;
+    align-content: flex-start;
+    display: block;
+}
+.footer{
+    font-size: 12px;
+    font-style: italic;
+}
